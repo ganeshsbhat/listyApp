@@ -2,7 +2,7 @@
 
 A simple React Application to create list of items.
 
-### How to install seatME-React?
+### How to install?
 
 - Go to the project folder and run ```npm install```
 - Build your application using ```npm run build```
